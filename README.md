@@ -54,3 +54,8 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Demo
+
+Check out the live demo [here](https://grapphic.github.io/Login_Form_with_php-MySQL/).
+
